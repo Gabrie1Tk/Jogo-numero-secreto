@@ -1,8 +1,8 @@
-# 🔢 Jogo do Número Secreto
+# Jogo do Número Secreto
 
 Este repositório contém o clássico jogo de adivinhação desenvolvido durante o curso de **Lógica de Programação** (Alura/Oracle ONE). O objetivo foi aplicar conceitos de interação com o usuário, manipulação do DOM e lógica de jogo utilizando JavaScript.
 
-## 🌐 Jogue Agora
+## Jogue Agora
 
 Tente adivinhar o número secreto acessando o link abaixo:
 
@@ -10,7 +10,7 @@ Tente adivinhar o número secreto acessando o link abaixo:
 
 > **Link:** https://gabrie1tk.github.io/Jogo-numero-secreto/
 
-## 🎮 Como Funciona
+## Como Funciona
 
 1.  O sistema gera um **número aleatório** (geralmente entre 1 e 10 ou 1 e 100).
 2.  O jogador digita um palpite no campo de texto.
@@ -21,7 +21,7 @@ Tente adivinhar o número secreto acessando o link abaixo:
 4.  O jogo conta quantas **tentativas** foram necessárias.
 5.  Ao acertar, o botão **"Novo Jogo"** é habilitado para reiniciar a partida.
 
-## 🛠️ Tecnologias e Conceitos
+## Tecnologias e Conceitos
 
 * **HTML5:** Estrutura da página.
 * **CSS3:** Estilização da interface.
@@ -32,7 +32,7 @@ Tente adivinhar o número secreto acessando o link abaixo:
     * Geração de números aleatórios (`Math.random`).
     * **ResponsiveVoice (Opcional):** Síntese de voz para acessibilidade (se implementado na versão final).
 
-## 📂 Como Rodar Localmente
+## Como Rodar Localmente
 
 1.  **Clone o repositório:**
     ```bash
@@ -44,6 +44,3 @@ Tente adivinhar o número secreto acessando o link abaixo:
 ## Autor
 
 Desenvolvido por **[Gabriel Takao](https://github.com/Gabrie1Tk)**.
-
----
-*Projeto de estudos: Lógica de Programação e JavaScript.*
